@@ -80,3 +80,18 @@ Display line-height is `0.92`. Lines that stack touch each other.
 
 ## 8. Imagery
 There is exactly one photograph, `assets/vedant.jpg`. It's used as the hero background (darkened) and as the small portrait in the About card. Don't add stock imagery.
+
+## 9. Additions from the second pair of reference videos (desktop + mobile)
+- **Hero cursor word.** A small monospaced uppercase word follows the pointer over the hero and cycles: Draft → Research → Argue → Negotiate. It shows only with a fine pointer and is off when motion is reduced.
+- **Selected Work grid.** Two rows of three type-only tiles (ink, oxblood, charcoal, ivory) with a faint grid, an index and year, and a large faint keyword.
+  - On desktop, the hovered row and tile grow and the caption fades in.
+  - On phones, the tiles stack at 230px with the caption always visible.
+  - Clicking a tile opens the matching experience row or publication.
+- **Section captions.** On the right of each section label there's a small "0N / Name" line and a short sentence in English. Hidden below 620px.
+- **Stat accent.** An oxblood segment grows up the left rule of each stat. On phones, the title block also gets a left rule.
+- **Practice panel.** A thin progress bar (an oxblood segment for each area) and a large faint ".0N" index. On phones the tab list becomes a large stacked list with an uppercase intro line.
+- **FAQ.** A ruled headline, then paper cards with an oxblood "+" that open in place, next to a "Still have questions?" note.
+- **Mobile nav and footer.**
+  - Nav: a two-line hamburger (shorter bottom line) that turns into an ×.
+  - Footer: a 2-column link grid at a larger size and a LinkedIn / email / phone icon row.
+- **Contact.** A "VEDANT§" rule and a mini portrait card above the headline. Full-width pill buttons on phones.
